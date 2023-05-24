@@ -38,8 +38,3 @@ I am a web developer who enjoys working with PHP, NodeJs, Express, MongoDB, MYSQ
 - In my spare time, I enjoy playing chess and solving puzzles.
 - I enjoy learning new things about technology and related topics.
 - I am bilingual in Hindi and English.
-
-
-## 📊 My GitHub stats ...
-
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vk498959)
