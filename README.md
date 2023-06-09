@@ -41,4 +41,4 @@ I am a web developer who enjoys working with PHP, NodeJs, Express, MongoDB, MYSQ
 - I am bilingual in Hindi and English.
 
 # My Profile Statistics
-<p>Total Views ![](https://komarev.com/ghpvc/?username=vk498959&color=blue&style=flat)</p>
+Total Views ![](https://komarev.com/ghpvc/?username=vk498959&color=blue&style=flat)
