@@ -1,3 +1,4 @@
+
 # Hi there 👋
 
 I am a web developer who enjoys working with PHP, NodeJs, Express, MongoDB, MYSQL, HTML, CSS, Bootstrap, and other technologies to build stunning and dynamic websites. I have experience utilizing NodeJs, PHP, MySQL, and MongoDB to create dynamic web apps. I also like discovering innovative methods and tools that can help me improving my skill set.
@@ -38,3 +39,6 @@ I am a web developer who enjoys working with PHP, NodeJs, Express, MongoDB, MYSQ
 - In my spare time, I enjoy playing chess and solving puzzles.
 - I enjoy learning new things about technology and related topics.
 - I am bilingual in Hindi and English.
+
+# My Profile Statistics
+<p>Total Views ![](https://komarev.com/ghpvc/?username=vk498959&color=blue&style=flat)</p>
