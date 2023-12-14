@@ -6,6 +6,7 @@ I am a web developer who enjoys working with PHP, NodeJs, Express, MongoDB, MYSQ
 ## 🔭 I worked on ...
 
 - A website for my own portfolio where I may display my work and abilities.
+- A Live poll system with websocket
 - A blog where I discuss other things as well as web development and other ideas.
 - A PHP and MySQL-based online voting system.
 - Numerous short, easy games using HTML and JavaScript
