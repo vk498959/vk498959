@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I am a web developer who enjoys working with PHP, NodeJs, Express, MongoDB, MYSQL, HTML, CSS, Bootstrap, and other technologies to build stunning and dynamic websites. I have experience utilizing NodeJs, PHP, MySQL, and MongoDB to create dynamic web apps. I also like discovering innovative methods and tools that can help me improving my skill set.
+I am a web developer who enjoys working with Javascript, NodeJs, Express, MongoDB, MYSQL, HTML, CSS and other technologies to build stunning and dynamic websites. I have experience utilizing NodeJs, Javascript, MySQL, and MongoDB to create dynamic web apps. I also like discovering innovative methods and tools that can help me improving my skill set.
 
 ## 🔭 I worked on ...
 
@@ -10,15 +10,16 @@ I am a web developer who enjoys working with PHP, NodeJs, Express, MongoDB, MYSQ
 - A blog where I discuss other things as well as web development and other ideas.
 - A PHP and MySQL-based online voting system.
 - Numerous short, easy games using HTML and JavaScript
+- A Full Stack MCQ Quiz with Nodejs, HTML, CSS, JavaScript
+- A File Share Application Which Supports Both Web as Well as FTP Sharing
 - An e-commerce platform.
 
 ## 🔭 I’m currently working on ...
 
-- A Online Typing Improver
+- Game Development
 
 
 ## 🌱 I’m currently learning ...
-- MVC Based architecture
 - Machine Learning
 - SEO (search engine optimization)
 
