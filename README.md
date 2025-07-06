@@ -39,6 +39,8 @@ I am a web developer who enjoys working with Javascript, NodeJs, Express, MongoD
 
 
 - In my spare time, I enjoy playing chess and solving puzzles.
+- I enjoy Coding & try to make my work east with Coding.
+- Always try to make something utility tools which makes our work easy.
 - I enjoy learning new things about technology and related topics.
 - I am bilingual in Hindi and English.
 
