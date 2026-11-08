@@ -5,12 +5,12 @@ I am a web developer who enjoys working with Javascript, NodeJs, Express, MongoD
 
 # Currently Live
 
-[My Portfolio](https://vk498959.netlify.app/)
-[Javascript PlayGround](https://vk498959.github.io/JsPlaygroud/)
-[Advanced Query Manager](https://vk498959.github.io/AdvanceQueryManager/)
-[Advanced Text Extractor](https://vk498959.github.io/AdvancedTextFilter/)
-[Magic Dice](https://vk498959.github.io/Magic_Dice/)
-[Encrypter Decrypter](https://vk498959.github.io/encrypter_decrypter/)
+-[My Portfolio](https://vk498959.netlify.app/)
+-[Javascript PlayGround](https://vk498959.github.io/JsPlaygroud/)
+-[Advanced Query Manager](https://vk498959.github.io/AdvanceQueryManager/)
+-[Advanced Text Extractor](https://vk498959.github.io/AdvancedTextFilter/)
+-[Magic Dice](https://vk498959.github.io/Magic_Dice/)
+-[Encrypter Decrypter](https://vk498959.github.io/encrypter_decrypter/)
 
 
 ## 🔭 I worked on ...
